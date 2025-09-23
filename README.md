@@ -8,13 +8,11 @@
 - Menú interactivo con ciclo `while`.
 - Control de versiones con Git (ramas, merges, conflictos).
 
-##Tecnologías
-- Python 3.x
+##Tecnología
 - C# (.NET)
 - Git & GitHub
 
 ##Estructura
-- `/Python`: Código en Python.
 - `/CSharp`: Código en C#.
 
   
@@ -24,3 +22,4 @@
 - Control de versiones con flujos de trabajo, ramas y resolución de conflictos.
 
 ## Ariane Eyleen Hoyos Yrigoyn
+
