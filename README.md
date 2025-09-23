@@ -21,5 +21,6 @@
 - Uso de operadores y tipos de datos.
 - Control de versiones con flujos de trabajo, ramas y resolución de conflictos.
 
-## Ariane Eyleen Hoyos Yrigoyn
+## Ariane Eyleen Hoyos Yrigoyn ℗
+
 
