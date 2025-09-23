@@ -30,6 +30,30 @@ namespace Hoyos_Yrigoyn
             Console.WriteLine("El promedio de " + nombre + " es: " + promedio);
 
             Console.ReadKey();
+
+            //Parte 2: Estructuras Condicionales (Simple, Doble, Múltiple)_Evaluación condicional
+
+            float promedio;
+
+            Console.WriteLine("---Evaluación de notas---");
+
+            Console.WriteLine("Ingrese su calificacion:");
+
+            if (promedio >= 13) ;
+
+                       {
+                Console.WriteLine("Aprobado");
+            }
+            else
+            {
+                Console.WriteLine("Reprobado");
+            }
+
+            Console.ReadKey();
+
+
+
+
         }
     }
 }
