@@ -49,6 +49,27 @@ namespace Hoyos_Yrigoyn
 
             Console.ReadKey();
 
+            //# Selección múltiple con elif
+
+            int calificacion;
+            Console.WriteLine("---Evaluación de notas con selección múltiple---");
+
+            Console.WriteLine("Ingrese su calificación:");
+
+            calificacion = int.Parse(Console.ReadLine());
+
+            if (calificacion >= 18)
+                Console.WriteLine("Excelente");
+            else if (calificacion >= 15)
+                Console.WriteLine("Bueno");
+            else if (calificacion >= 13)
+                Console.WriteLine("Regular");
+            else
+                Console.WriteLine("Deficiente");
+
+            Console.WriteLine($"Calificacion{calificacion}");
+
+
 
 
 
