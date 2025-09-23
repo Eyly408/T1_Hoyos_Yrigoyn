@@ -33,23 +33,25 @@ namespace Hoyos_Yrigoyn
 
             //Parte 2: Estructuras Condicionales (Simple, Doble, Múltiple)_Evaluación condicional
 
-            float promedio;
+            float promedio1;
 
             Console.WriteLine("---Evaluación de notas---");
 
             Console.WriteLine("Ingrese su calificacion:");
+            promedio1= float.Parse(Console.ReadLine());
 
-            if (promedio >= 13) ;
+            if (promedio1 >= 13)
 
-                       {
-                Console.WriteLine("Aprobado");
-            }
+            Console.WriteLine("Aprobado");
+
             else
-            {
                 Console.WriteLine("Reprobado");
-            }
 
             Console.ReadKey();
+
+
+
+
 
 
 
