@@ -11,6 +11,7 @@ namespace Hoyos_Yrigoyn
         static void Main(string[] args)
         {
             // Bienvenido a entrada de datos
+            Console.ForegroundColor = ConsoleColor.Red;
 
             Console.WriteLine("---CALCULADORA INTELIGENTE DE PROMEDIOS---");
 
@@ -34,6 +35,7 @@ namespace Hoyos_Yrigoyn
             //Parte 2: Estructuras Condicionales (Simple, Doble, Múltiple)_Evaluación condicional
 
             float promedio1;
+            Console.ForegroundColor = ConsoleColor.Blue;
 
             Console.WriteLine("---Evaluación de notas---");
 
@@ -50,6 +52,9 @@ namespace Hoyos_Yrigoyn
             Console.ReadKey();
 
             //# Selección múltiple con elif
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("---Tercer apartado---");
+            
 
             int calificacion;
             Console.WriteLine("---Evaluación de notas con selección múltiple---");
@@ -69,6 +74,7 @@ namespace Hoyos_Yrigoyn
 
             Console.WriteLine($"Calificacion{calificacion}");
 
+            Console.ReadKey();
 
 
 
