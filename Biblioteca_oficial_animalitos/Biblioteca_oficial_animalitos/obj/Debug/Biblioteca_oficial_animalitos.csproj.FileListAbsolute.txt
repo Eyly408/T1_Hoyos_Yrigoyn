@@ -1,0 +1,6 @@
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\bin\Debug\Biblioteca_oficial_animalitos.dll
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\bin\Debug\Biblioteca_oficial_animalitos.pdb
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\obj\Debug\Biblioteca_oficial_animalitos.csproj.AssemblyReference.cache
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\obj\Debug\Biblioteca_oficial_animalitos.csproj.CoreCompileInputs.cache
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\obj\Debug\Biblioteca_oficial_animalitos.dll
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Biblioteca_oficial_animalitos\Biblioteca_oficial_animalitos\obj\Debug\Biblioteca_oficial_animalitos.pdb

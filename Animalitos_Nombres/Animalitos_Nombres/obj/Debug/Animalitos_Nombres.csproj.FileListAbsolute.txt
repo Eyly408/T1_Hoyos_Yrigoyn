@@ -1,0 +1,11 @@
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\bin\Debug\Animalitos_Nombres.exe.config
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\bin\Debug\Animalitos_Nombres.exe
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\bin\Debug\Animalitos_Nombres.pdb
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\bin\Debug\Biblioteca_oficial_animalitos.dll
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\bin\Debug\Biblioteca_oficial_animalitos.pdb
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalitos_Nombres.csproj.AssemblyReference.cache
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalitos_Nombres.csproj.CoreCompileInputs.cache
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalit.1B14586F.Up2Date
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalitos_Nombres.exe
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalitos_Nombres.pdb
+C:\Users\UCLAB522\Desktop\T3_Ariane Hoyos\Animalitos_Nombres\Animalitos_Nombres\obj\Debug\Animalitos_Nombres.exe.config
